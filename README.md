@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-green?logo=streamlit)
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue?logo=mlflow)
 ![Joblib](https://img.shields.io/badge/Joblib-Artifacts-orange?logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn-ML-yellow?logo=scikit-learn)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-yellow?logo=scikitlearn)
 ![NetworkX](https://img.shields.io/badge/NetworkX-Graphs-purple?logo=networkx)
 ![Pandas](https://img.shields.io/badge/Pandas-Data-blue?logo=pandas)
 ---
