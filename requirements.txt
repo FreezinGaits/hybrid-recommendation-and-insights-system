@@ -1,0 +1,9 @@
+ipykernel
+pandas
+numpy
+seaborn
+mlxtend
+networkx
+scikit-learn
+plotly
+mlflow
