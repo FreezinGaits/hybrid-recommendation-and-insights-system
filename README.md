@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Hybrid Recommendation & Insights System
 ## Production-Oriented ML Recommender with Evaluation, Explainability, and Deployment
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
@@ -44,7 +43,7 @@ To address sparsity and cold-start limitations, the system uses a hybrid ensembl
 These models are combined into an ensemble recommender to improve robustness over any single method.
 ---
 ## 🏗️ System Architecture
-```bash
+```
 Raw Data (CSV)
    ↓
 Data Cleaning & Feature Engineering
@@ -171,4 +170,3 @@ Focused on Machine Learning, MLOps, and Production AI Systems
 This project was built to reflect real-world ML engineering practices, not just model training.
 ---
 ⭐ This repository demonstrates how machine learning systems are **built, evaluated, deployed, and maintained** in real production environments.
-```
